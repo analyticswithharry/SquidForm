@@ -1,0 +1,25 @@
+{
+  "name": "squid-consultancy-form",
+  "version": "1.0.0",
+  "description": "A registration form for Squid Consultancy with a serverless backend on Netlify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify dev"
+  },
+  "keywords": [
+    "form",
+    "netlify",
+    "serverless"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.34.1"
+  }
+}

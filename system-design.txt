@@ -1,0 +1,6 @@
+project-folder/
+├── index.html        # The single HTML file containing HTML, CSS, and JavaScript
+├── server.js         # Node.js backend file (will be replaced for Netlify)
+├── package.json      # Node.js project metadata and dependencies
+├── package-lock.json # Auto-generated dependency versions
+└── node_modules/     # Installed dependencies
